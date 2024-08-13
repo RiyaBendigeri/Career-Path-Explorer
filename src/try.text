@@ -1,0 +1,51 @@
+<div className='about1a'>
+                <h1>THE CHALLENGE</h1>
+                <p className='about1aa'>hello wolrd</p>
+                <p className='about1ab'>bye world
+
+                </p>
+
+            </div>
+
+
+
+
+
+
+
+
+ <div className='about1b'>
+                <div className='figuredes'>
+
+                
+                <h1>THE SOLUTION</h1>
+                <p>hshkjhkjshhhhhhhhhhh</p>
+                </div>
+                <div className='figure'>
+
+                </div>
+
+
+            </div>           
+
+
+.about1a{
+  height:300px;
+  text-align: center;
+  width:500px;
+  background-color: rgb(214, 41, 2);
+  font-family:cursive;
+}
+.about1aa{
+  color:white;
+}
+.about1ab{
+  color:black;
+}
+
+
+
+
+
+
+
